@@ -1,0 +1,309 @@
+{
+  "Items": {
+    "value": [
+      {
+        "value": {
+          "Amount": {
+            "value": 3293356.0
+          },
+          "Date": {
+            "value": "2018-05-15"
+          },
+          "ProductCode": {
+            "value": "92102"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 3864.99
+          },
+          "Date": {
+            "value": "2018-05-23"
+          },
+          "ProductCode": {
+            "value": "91987"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 8667.0
+          },
+          "Date": {
+            "value": "2018-05-02"
+          },
+          "ProductCode": {
+            "value": "110858 91988"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 191.95
+          },
+          "Date": {
+            "value": "2018-03-12"
+          },
+          "ProductCode": {
+            "value": "111029 92148"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 1290954.0
+          },
+          "Date": {
+            "value": "2018-03-27"
+          },
+          "ProductCode": {
+            "value": "111165 92278"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 35738.05
+          },
+          "Date": {
+            "value": "2018-05-23"
+          },
+          "ProductCode": {
+            "value": "91782"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 472.98
+          },
+          "Date": {
+            "value": "2018-04-02"
+          },
+          "ProductCode": {
+            "value": "92212"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 969.8
+          },
+          "Date": {
+            "value": "2018-04-03"
+          },
+          "ProductCode": {
+            "value": "111094 92214"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 23916.45
+          },
+          "Date": {
+            "value": "2018-04-03"
+          },
+          "ProductCode": {
+            "value": "111101 92221"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 293.3
+          },
+          "Date": {
+            "value": "2018-04-04"
+          },
+          "ProductCode": {
+            "value": "111102 92222"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 503.31
+          },
+          "Date": {
+            "value": "2018-04-04"
+          },
+          "ProductCode": {
+            "value": "111103 92223"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 11761.91
+          },
+          "Date": {
+            "value": "2018-04-04"
+          },
+          "ProductCode": {
+            "value": "111104 92224"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 677.6
+          },
+          "Date": {
+            "value": "2018-04-04"
+          },
+          "ProductCode": {
+            "value": "111106 92225"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 148.2
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "111107 92227"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 217.62
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "111108 92228"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 50.62
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "111110 92229"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 568.69
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "111111 92230"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 477.36
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "92231"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 173.37
+          },
+          "Date": {
+            "value": "2018-04-05"
+          },
+          "ProductCode": {
+            "value": "111116 92234"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 67979.0
+          },
+          "Date": {
+            "value": "2018-05-30"
+          },
+          "ProductCode": {
+            "value": "91928"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 928.78
+          },
+          "Date": {
+            "value": "2018-05-15"
+          },
+          "ProductCode": {
+            "value": "91964"
+          }
+        }
+      },
+      {
+        "value": {
+          "Date": {
+            "value": "2018-06-06"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 31500.0
+          },
+          "Date": {
+            "value": "2018-06-01"
+          }
+        }
+      },
+      {
+        "value": {
+          "Amount": {
+            "value": 42839.75
+          },
+          "Date": {
+            "value": "2018-04-30"
+          },
+          "ProductCode": {
+            "value": "91965"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "CustomerAddress": {
+    "value": "123 Somewhere St Melbourne, VIC 3000"
+  },
+  "CustomerAddressRecipient": {
+    "value": "Test Business"
+  },
+  "CustomerName": {
+    "value": "Test Business"
+  },
+  "DueDate": "2016-01-31",
+  "InvoiceDate": "2016-01-25",
+  "InvoiceId": {
+    "value": "INV-3337"
+  },
+  "InvoiceTotal": {
+    "value": 93.5
+  },
+  "Items": {
+    "value": [
+      {
+        "value": {
+          "Amount": {
+            "value": 85.0
+          },
+          "Description": {
+            "value": "Web Design This is a sample description..."
+          },
+          "Quantity": {
+            "value": 1.0
+          },
+          "UnitPrice": {
+            "value": 85.0
+          }
+        }
+      }
+    ]
+  },
+  "SubTotal": {
+    "value": 85.0
+  },
+  "TotalTax": {
+    "value": 8.5
+  },
+  "VendorAddress": {
+    "value": "Suite 5A-1204 123 Somewhere Street Your City AZ 12345"
+  },
+  "VendorAddressRecipient": {
+    "value": "DEMO - Sliced Invoices"
+  },
+  "VendorName": {
+    "value": "DEMO - Sliced Invoices"
+  }
+}

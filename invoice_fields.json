@@ -1,0 +1,76 @@
+{
+  "CustomerAddress": {
+    "value": "123 Somewhere St Melbourne, VIC 3000",
+    "confidence": 0.954
+  },
+  "CustomerAddressRecipient": {
+    "value": "Test Business",
+    "confidence": 0.961
+  },
+  "CustomerName": {
+    "value": "Test Business",
+    "confidence": 0.961
+  },
+  "DueDate": {
+    "value": "2016-01-31",
+    "confidence": 0.954
+  },
+  "InvoiceDate": {
+    "value": "2016-01-25",
+    "confidence": 0.954
+  },
+  "InvoiceId": {
+    "value": "INV-3337",
+    "confidence": 0.973
+  },
+  "InvoiceTotal": {
+    "value": 93.5,
+    "confidence": 0.968
+  },
+  "Items": {
+    "value": [
+      {
+        "value": {
+          "Amount": {
+            "value": 85.0,
+            "confidence": 0.883
+          },
+          "Description": {
+            "value": "Web Design This is a sample description...",
+            "confidence": 0.6
+          },
+          "Quantity": {
+            "value": 1.0,
+            "confidence": 0.787
+          },
+          "UnitPrice": {
+            "value": 85.0,
+            "confidence": 0.802
+          }
+        },
+        "confidence": 0.806
+      }
+    ],
+    "confidence": 1.0
+  },
+  "SubTotal": {
+    "value": 85.0,
+    "confidence": 0.974
+  },
+  "TotalTax": {
+    "value": 8.5,
+    "confidence": 0.973
+  },
+  "VendorAddress": {
+    "value": "Suite 5A-1204 123 Somewhere Street Your City AZ 12345",
+    "confidence": 0.951
+  },
+  "VendorAddressRecipient": {
+    "value": "DEMO - Sliced Invoices",
+    "confidence": 0.762
+  },
+  "VendorName": {
+    "value": "DEMO - Sliced Invoices",
+    "confidence": 0.91
+  }
+}
